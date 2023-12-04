@@ -1,0 +1,39 @@
+.btn-calc {
+    padding: 2em;
+    margin: 1em;
+    font-weight: 700;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.5em;
+    border-width: 4px;
+    border-style: solid;
+    color: rgb(68, 41, 5);
+    background-color: darksalmon;
+    border-radius: 2 0%;
+}
+
+.btn-operador {
+    background-color: pink;
+
+}
+
+.btn-total {
+    background-color: aquamarine;
+}
+
+.visor {
+    padding: 2em;
+    margin: 5px;
+    font-size: 1.5em;
+    font-family: Arial, Helvetica, sans-serif;
+    border-width: 8px;
+    border-style: double;
+    color: rgb(68, 41, 5);
+    border-radius: 50%;
+    background-color: lightblue;
+}
+
+h1 {
+    color: hotpink;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
